@@ -1,0 +1,44 @@
+CodeVisionAVR C Compiler V1.24.8d Professional
+(C) Copyright 1998-2006 Pavel Haiduc, HP InfoTech s.r.l.
+http://www.hpinfotech.com
+
+File: D:\siddarth\debug\Project 10th dec\adc.c
+Global variables memory map:
+
+Variable                          Address   Size
+timer_count                                                          R2,R3      2
+i                                                                       R4      1
+j                                                                       R5      1
+k                                                                       R6      1
+rx_buffer0                                                            180h      8
+rx_wr_index0                                                            R7      1
+rx_rd_index0                                                            R8      1
+rx_counter0                                                             R9      1
+rx_buffer_overflow0                                               GPIOR0.0    1/8
+tx_buffer0                                                            188h      8
+tx_wr_index0                                                           R10      1
+tx_rd_index0                                                           R11      1
+tx_counter0                                                            R12      1
+data                                                                   R13      1
+stop                                                                   R14      1
+cmd1                                                                  190h      7
+cmd2                                                                  197h      5
+cmd3                                                                  19Ch     12
+cmd4                                                                  1A8h     12
+cmd5                                                                  1B4h     12
+cmd6                                                                  1C0h     12
+LAT                                                                   1CCh      9
+LOG                                                                   1D5h      9
+msg4                                                                  1DEh      3
+ip                                                                    1E1h     16
+ipi                                                                   1F1h     17
+cmd7                                                                  202h      6
+cmd8                                                                  208h      9
+cmd9                                                                  211h      7
+cmd10                                                                 218h      7
+cmd11                                                                 21Fh      7
+cmd12                                                                 226h     14
+cmd13                                                                 234h      8
+ME1                                                                   23Ch     16
+cmp                                                                   24Ch     12
+buff                                                                  258h     25
