@@ -1,13 +1,20 @@
 # IoT-RFID-based-Employee-Tracker-Device
 Micro Embedded Solutions Internship Project
 
-Software/apps used:
+## Software/apps used:
 
-Code Vision AVR
-AVR studio
-Real Term (For testing)
-Maru MAP Demo Version Tracker (Company based app)
+1. Code Vision AVR
+2. AVR studio
+3. Real Term (For testing)
+4. Company based GPS tracker app
 
-Hardware used:
+## Hardware used:
 
-ATMEGA-32 Microcontroller
+1. ATMEGA-48 Microcontroller
+2. GSM Modem
+3. EM-18 Reader module 
+4. GPS Module
+5. 16x2 LCD 
+6. 2 channel Relay module
+
+## Working
