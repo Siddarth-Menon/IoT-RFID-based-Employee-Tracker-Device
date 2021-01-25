@@ -35,6 +35,6 @@ When a RFID based card is swiped over the EM reader
 
 ## Application
 
-This device is very useful for multinational companies having offices all around the world to monitor their employees.
+This device is very useful for multinational companies having offices all around the world to monitor their employees in each office.
 
 
