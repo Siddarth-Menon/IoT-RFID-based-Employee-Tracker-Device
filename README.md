@@ -12,7 +12,7 @@ Micro Embedded Solutions Internship Project
 
 1. ATMEGA-48 Microcontroller
 2. GSM Modem
-3. EM-18 Reader module
+3. EM-18 Reader module (RFID)
 4. GPS Module
 5. 16x2 LCD 
 6. Two channel Relay module
