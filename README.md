@@ -28,9 +28,9 @@ When a RFID based card is swiped over the EM reader
 - The data (CARD ID) is first sent to the microcontroller.
 - The microcontroller compares the Card ID with the employee names stored in its memory and the respective name is displayed on the LCD if the card is valid.
 - If the card is not valid, then an error message is displayed on the LCD.
-- The GPS modem then transmits the location data to the microcontroller.
+- The GPS module then transmits the location data to the microcontroller.
 - After a few seconds the name on the LCD gets vanished and the GPS coordinate (Longitude-Latitude format) is displayed on the LCD screen.
-- The GSM module then sends a message consisting of the employee name and coordinates in a particular format to the phone of the admin.
+- The GSM modem then sends a message consisting of the employee name and coordinates in a particular format to the phone of the admin.
 - The comapany based app which is installed on the admin's phone then reads the message and uses the GPS coordinates to pin point the location of the employee on google maps.
 
 ## Application
