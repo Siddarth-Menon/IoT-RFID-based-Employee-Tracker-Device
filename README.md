@@ -1,4 +1,4 @@
-# IoT-RFID-based-Employee-Tracker-Device
+# RFID-based-Employee-Tracker-Device
 Micro Embedded Solutions Internship Project
 
 ## Software/Apps used:
@@ -21,7 +21,7 @@ Micro Embedded Solutions Internship Project
 
 This device works using UART protocol and the relay is used to switch connections between the microcontroller and the EM Reader / GSM Modem / GSM module depending on the situation. The EM reader is used to read the employee ID, the GSM module is used to connect the device to the internet and to send messages to authorities, the GPS module is used to get the location of the employee. 
 
-NOTE : This device can be easily serviced from a remote location as the device is connected to the internet using GSM modem consisting of a sim card (and not WiFi).
+NOTE : This device can be easily serviced from a remote location as the device is connected to the internet using GSM modem consisting of a sim card.
 
 When a RFID based card is swiped over the EM reader
 
